@@ -1,0 +1,1857 @@
+<rdf:RDF 
+    xmlns:vitro="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:cito="http://purl.org/spar/cito/" 
+    xmlns:scires="http://vivoweb.org/ontology/scientific-research#" 
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:ocresd="http://purl.org/net/OCRe/study_design.owl#" 
+    xmlns:ocrer="http://purl.org/net/OCRe/research.owl#" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:uab="http://scholars.uab.edu/ontology/local#" 
+    xmlns:obo="http://purl.obolibrary.org/obo/" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:geo="http://aims.fao.org/aos/geopolitical.owl#" 
+    xmlns:c4o="http://purl.org/spar/c4o/" 
+    xmlns:event="http://purl.org/NET/c4dm/event.owl#" 
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+    xmlns:bibo="http://purl.org/ontology/bibo/" 
+    xmlns:fabio="http://purl.org/spar/fabio/" 
+    xmlns:vivo="http://vivoweb.org/ontology/core#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:vitro-public="http://vitro.mannlib.cornell.edu/ns/vitro/public#" > 
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20190520-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20190520"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-adowdey-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Nurse Home Visitor</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/adowdey"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20190520-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20140904-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20140904"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-adsnow-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Services Specialist III</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/adsnow"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343008000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20140904-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20170911-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20170911"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-allbrook-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Project Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/allbrook"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20170911-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20131215-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20131215"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-anakonda-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Research Nurse Coordinator</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/anakonda"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20131215-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-19940410-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date19940410"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-angelh-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Administrator II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/angelh"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd344000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-19940410-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20150202-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20150202"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-annalee-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/annalee"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343001000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20150202-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20180716-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20180716"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ans77-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Registered Nurse (RN) - Skills Lab Educator</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ans77"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20180716-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20021216-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20021216"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-araccot-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Coordinator Student Admissions and Records</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/araccot"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430002000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20021216-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20110124-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20110124"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-artneyp-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Services Specialist III</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/artneyp"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20110124-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20131016-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20131016"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-aswill-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/aswill"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20131016-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-19991001-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date19991001"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-awrenn-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/awrenn"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-19991001-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20170212-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20170212"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-bamagrl-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bamagrl"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343008000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20170212-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20100211-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20100211"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-bdunklin-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bdunklin"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20100211-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20050124-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20050124"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-bellpm-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bellpm"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20050124-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-19970127-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date19970127"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-bethvar-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bethvar"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd431000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-19970127-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20150105-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20150105"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-bjacobs-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Simulation Coordinator</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bjacobs"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20150105-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20170903-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20170903"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-bmmoore-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Nurse Home Visitor</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bmmoore"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20170903-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20130826-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20130826"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-bradjb-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Project Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bradjb"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20130826-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20090712-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20090712"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-bttrfly-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Web Communications Specialist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bttrfly"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd431000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20090712-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-19891210-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date19891210"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-bucknerk-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Executive Director of Administrative Operations</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bucknerk"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-19891210-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20080602-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20080602"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-cbender-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cbender"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343001000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20080602-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20140922-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20140922"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-cbl93-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Registered Nurse (RN) - Skills Lab Educator</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cbl93"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20140922-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20180116-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20180116"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-cgwalton-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Supervisor - Nurse Home Visitor</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cgwalton"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20180116-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20110228-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20110228"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-chafinl-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Administrative Associate</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/chafinl"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20110228-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20170611-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20170611"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-cierranh-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Researcher III</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cierranh"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343008000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20170611-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20181217-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20181217"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-cklw-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Computer Technician</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cklw"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20181217-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20170515-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20170515"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-claireh1-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Medical Social Worker</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/claireh1"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20170515-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20070713-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20070713"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-cmfinch-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Associate II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cmfinch"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343008000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20070713-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20021209-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20021209"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-corders-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/corders"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd344000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20021209-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20180701-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20180701"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-cypresa-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Dean of the School of Education</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cypresa"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20180701-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20050406-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20050406"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-danelle-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Scientist II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/danelle"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430003000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20050406-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20051101-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20051101"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-dcharper-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Dean of the School of Nursing</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dcharper"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20051101-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20011022-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20011022"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-deasons-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Administrator II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/deasons"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343001000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20011022-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20091228-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20091228"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-deedee1-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Associate I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/deedee1"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343001000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20091228-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20160101-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20160101"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-dlarkin-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Assessment Management &amp; Analysis Director</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dlarkin"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20160101-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20000830-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20000830"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-dmerk-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Coordinator II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dmerk"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20000830-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20151102-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20151102"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-drberts-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Counselor Student III</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/drberts"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343001000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20151102-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20050619-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20050619"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ecraig1-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Director II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ecraig1"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20050619-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20131216-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20131216"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-edtarver-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Teacher Certification Specialist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/edtarver"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430002000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20131216-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20140915-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20140915"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-elliottk-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/elliottk"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20140915-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20180702-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20180702"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-etecho-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Marketing Specialist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/etecho"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20180702-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20160801-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20160801"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-fcouch-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Communications Specialist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/fcouch"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20160801-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20180514-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20180514"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-feegreen-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/feegreen"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20180514-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20100111-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20100111"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-gcraig-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Data Base Analyst I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gcraig"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20100111-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20160328-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20160328"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-gdp-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gdp"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20160328-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20150215-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20150215"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-gmholmes-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gmholmes"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343001000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20150215-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20111003-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20111003"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-gpate-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Financial Officer III</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gpate"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20111003-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20070529-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20070529"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-heatherd-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Business Officer II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/heatherd"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20070529-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20120312-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20120312"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-jaclark-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Instructional Design Specialist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jaclark"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343002000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20120312-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20140527-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20140527"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-jaymeep9-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Associate II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jaymeep9"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20140527-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20160925-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20160925"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-jcarr01-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Audiovisual Specialist II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jcarr01"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20160925-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20180723-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20180723"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-jegross-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Services Specialist III</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jegross"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20180723-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20030801-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20030801"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-jfulmore-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Scientist II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jfulmore"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430003000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20030801-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20170508-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20170508"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-jgriff-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Counselor Student III</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jgriff"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343001000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20170508-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20160208-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20160208"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-jipaul7-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Educational Program Specialist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jipaul7"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd431000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20160208-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20170705-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20170705"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-jkhuey-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Communications Director</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jkhuey"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20170705-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20100915-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20100915"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-jlavier-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jlavier"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343001000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20100915-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20190701-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20190701"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-jman-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Instructional Design Specialist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jman"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343002000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20190701-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20011118-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20011118"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-joeann-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Administrator II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/joeann"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20011118-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20160904-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20160904"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-josiahjr-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Researcher II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/josiahjr"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20160904-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20010205-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20010205"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-jpark-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Senior Director of Communications</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jpark"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20010205-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20190107-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20190107"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-jparker8-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Academic Advisor II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jparker8"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430002000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20190107-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-19990823-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date19990823"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-jrotch-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Project Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jrotch"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-19990823-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20110510-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20110510"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-jtmarkle-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Facilities Coordinator II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jtmarkle"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20110510-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20130918-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20130918"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-jupde22-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Student Affairs Director</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jupde22"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343001000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20130918-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20190715-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20190715"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-kaie-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Associate II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kaie"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20190715-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20000530-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20000530"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-kametris-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Associate I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kametris"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343001000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20000530-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20150615-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20150615"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-keane-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Data Analyst</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/keane"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20150615-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20180930-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20180930"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-kfmiller-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Nurse Practitioner</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kfmiller"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20180930-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20160808-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20160808"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-kkilpat-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kkilpat"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20160808-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20190903-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20190903"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-kklooney-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Coordinator II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kklooney"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20190903-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20020916-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20020916"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-kljerrol-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kljerrol"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343001000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20020916-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20190120-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20190120"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-klouisr-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/klouisr"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20190120-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20071112-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20071112"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-klowe-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Coordinator I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/klowe"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd433000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20071112-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20030113-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20030113"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-kmcd-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Nurse Home Visitor</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kmcd"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20030113-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20180115-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20180115"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-krey12-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Nurse Home Visitor</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/krey12"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20180115-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20190218-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20190218"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-krk-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Coordinator II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/krk"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20190218-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20180307-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20180307"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-kvsland-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Financial Officer I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kvsland"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20180307-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-19990125-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date19990125"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-lar-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lar"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd344000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-19990125-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20121217-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20121217"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ldplane-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ldplane"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20121217-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20130826-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20130826"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-lilymp-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Administrator II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lilymp"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20130826-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20040825-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20040825"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ljb8185-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Services Specialist III</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ljb8185"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd433000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20040825-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20131206-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20131206"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-lshall-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Project Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lshall"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20131206-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20050801-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20050801"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ltwillia-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Assistant Registrar</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ltwillia"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343001000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20050801-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20060130-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20060130"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-lwormley-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Administrative Associate</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lwormley"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd433000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20060130-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20140303-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20140303"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-mantana-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Project Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mantana"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20140303-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20181105-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20181105"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-mbpeter-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Nurse Home Visitor</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mbpeter"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20181105-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20190228-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20190228"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-mbriggs-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Associate II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mbriggs"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20190228-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20140301-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20140301"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-mbruck-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mbruck"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20140301-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-19940612-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date19940612"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-mcarter-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Associate I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mcarter"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430002000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-19940612-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20170307-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20170307"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-mckenny-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mckenny"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20170307-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20120815-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20120815"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-mearley-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Educational Program Specialist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mearley"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd431000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20120815-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20140824-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20140824"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-melmel2-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Research Nurse Coordinator</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/melmel2"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20140824-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20180618-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20180618"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-meskanes-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Research Nurse Coordinator</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/meskanes"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20180618-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20151201-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20151201"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-mgstinso-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Registered Dietitian</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mgstinso"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20151201-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20120725-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20120725"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-mhalford-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Project Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mhalford"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20120725-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20190224-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20190224"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-milford5-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/milford5"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20190224-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20030330-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20030330"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-minrob-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Coordinator II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/minrob"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20030330-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20060220-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20060220"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-mleopard-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Associate I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mleopard"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343001000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20060220-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20181111-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20181111"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-mlg0418-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Nurse Home Visitor</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mlg0418"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20181111-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-19880906-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date19880906"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-mnorwood-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label></rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mnorwood"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430002000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-19880906-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20070503-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20070503"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-myisrael-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Administrative Associate</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/myisrael"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20070503-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-19890912-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date19890912"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ntimpa-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label></rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ntimpa"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd431000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-19890912-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20190107-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20190107"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-omcain-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Financial Associate</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/omcain"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd431000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20190107-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20090618-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20090618"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-pamkelle-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Administrator II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/pamkelle"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20090618-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20121022-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20121022"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-pinkay36-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/pinkay36"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20121022-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20140629-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20140629"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-plittle2-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Administrator II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/plittle2"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343001000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20140629-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20140922-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20140922"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ravenbe-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Nurse Home Visitor</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ravenbe"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20140922-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20180806-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20180806"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-rg14-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rg14"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20180806-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20160829-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20160829"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-rlprevo-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rlprevo"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20160829-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20030421-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20030421"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-rsharris-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Personnel Generalist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rsharris"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20030421-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20090223-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20090223"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ruerue-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Associate II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ruerue"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20090223-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20180730-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20180730"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-scarmich-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/scarmich"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20180730-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20170815-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20170815"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-scole1-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Project Coordinator</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/scole1"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd431000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20170815-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20111115-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20111115"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-sebriggs-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Director III</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sebriggs"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20111115-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20080616-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20080616"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-sengler-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sengler"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20080616-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20081110-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20081110"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-sgcamata-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Director I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sgcamata"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd344000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20081110-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20190212-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20190212"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-shafley-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Clinical Simulation Specialist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/shafley"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20190212-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20170320-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20170320"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-shan1913-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Associate II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/shan1913"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd344000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20170320-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20081201-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20081201"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-sjwilson-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Educational Research Consultant</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sjwilson"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20081201-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20190916-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20190916"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-smeeks-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Financial Officer I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/smeeks"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20190916-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20190909-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20190909"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-smithd15-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Project Administrator</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/smithd15"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20190909-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-19931011-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date19931011"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-spencer-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/spencer"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd431000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-19931011-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20190520-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20190520"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-sph01-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Nurse Home Visitor</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sph01"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20190520-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20030818-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20030818"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ssallen-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Director II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ssallen"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343001000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20030818-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20180716-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20180716"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ssmithrn-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Registered Nurse (RN) - Skills Lab Educator</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ssmithrn"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20180716-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-19951204-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date19951204"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-stewartc-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Services Specialist III</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/stewartc"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343008000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-19951204-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20070918-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20070918"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-t348877-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/t348877"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd344000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20070918-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20140818-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20140818"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-tarenm-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/tarenm"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20140818-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20140701-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20140701"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-tawalker-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Director II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/tawalker"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430002000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20140701-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20170825-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20170825"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-tfaye2-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Executive Assistant I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/tfaye2"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20170825-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20110131-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20110131"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-theusl-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Coordinator II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/theusl"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20110131-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-19970210-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date19970210"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-tnp-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Director of Administrative and Fiscal Affairs</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/tnp"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-19970210-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20031023-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20031023"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-traceyo-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Office Services Specialist III</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/traceyo"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20031023-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20150112-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20150112"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-vhardy-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Academic Advisor III</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/vhardy"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430002000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20150112-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-19981109-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date19981109"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-vickier-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Executive Assistant I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/vickier"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd340000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-19981109-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20090101-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20090101"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-vickiwin-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Scientist I</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/vickiwin"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343007000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20090101-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20190102-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20190102"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-vrbolus-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Registered Nurse (RN) - Skills Lab Educator</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/vrbolus"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd343000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20190102-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20070618-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20070618"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-vstamper-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Director II</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/vstamper"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20070618-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20120125-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20120125"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-whj-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Financial Associate</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/whj"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd430000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20120125-current"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/ti-20170626-current">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#DateTimeInterval"/>
+    <vivo:start rdf:resource="http://scholars.uab.edu/individual/date20170626"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-yashas28-0">
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#NonAcademicPosition"/>
+    <rdfs:label>Program Manager</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/yashas28"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cd345000000"/>
+    <vivo:dateTimeInterval rdf:resource="http://scholars.uab.edu/individual/ti-20170626-current"/>
+  </rdf:Description>
+</rdf:RDF> 

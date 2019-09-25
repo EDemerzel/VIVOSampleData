@@ -1,0 +1,2516 @@
+<rdf:RDF 
+    xmlns:vitro="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:cito="http://purl.org/spar/cito/" 
+    xmlns:scires="http://vivoweb.org/ontology/scientific-research#" 
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:ocresd="http://purl.org/net/OCRe/study_design.owl#" 
+    xmlns:ocrer="http://purl.org/net/OCRe/research.owl#" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:uab="http://scholars.uab.edu/ontology/local#" 
+    xmlns:obo="http://purl.obolibrary.org/obo/" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:geo="http://aims.fao.org/aos/geopolitical.owl#" 
+    xmlns:c4o="http://purl.org/spar/c4o/" 
+    xmlns:event="http://purl.org/NET/c4dm/event.owl#" 
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+    xmlns:bibo="http://purl.org/ontology/bibo/" 
+    xmlns:fabio="http://purl.org/spar/fabio/" 
+    xmlns:vivo="http://vivoweb.org/ontology/core#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:vitro-public="http://vitro.mannlib.cornell.edu/ns/vitro/public#" > 
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-aballest-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/aballest"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-abasu-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/abasu"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-acarroll-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/acarroll"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-adistasi-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/adistasi"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-agarwal-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/agarwal"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-agsorace-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/agsorace"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-akole-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/akole"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-allucius-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/allucius"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-amadans-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/amadans"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-amatthey-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/amatthey"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-ambal-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ambal"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-andreo-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/andreo"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-anhpsh-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/anhpsh"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-anmehta-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/anmehta"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-anry-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/anry"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-ap123456-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ap123456"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-aslomins-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/aslomins"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-asmith7-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/asmith7"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-azajac-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/azajac"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-banerjee-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/banerjee"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-bdcox-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bdcox"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-bdsha-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bdsha"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-bellis-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bellis"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-bgower-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bgower"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-bgrocque-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bgrocque"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-bhima-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bhima"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-bjornsti-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bjornsti"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-bkorf-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bkorf"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-blalock-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/blalock"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-blarimer-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/blarimer"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-bleon-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bleon"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-bnabors-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bnabors"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-bnp0001-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bnp0001"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-bren98-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bren98"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-brenessa-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/brenessa"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-broker-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/broker"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-bsejong-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bsejong"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-bwei-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/bwei"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-byoder-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/byoder"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-cbcolem-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cbcolem"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-cchang-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cchang"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-cclamber-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cclamber"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-cdaniel-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdaniel"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-cdobelbo-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdobelbo"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-celmets-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/celmets"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-cfalany-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cfalany"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-cfalkson-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cfalkson"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-cfaul-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cfaul"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-chesn-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/chesn"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-chrisk-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/chrisk"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-christie-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/christie"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-chuckt-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/chuckt"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-ciminoj-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ciminoj"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-coelson-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/coelson"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-conway-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/conway"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-cpetit-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cpetit"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-cweaver-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cweaver"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-cwilley-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cwilley"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-dadlickin-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dadlickin"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-darley-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/darley"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-datherto-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/datherto"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-dattapk-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dattapk"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-dbedwell-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dbedwell"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-dchu-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dchu"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-ddas-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ddas"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-debasish-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/debasish"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-delanghe-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/delanghe"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-demark-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/demark"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-demorgan-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/demorgan"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-desmond-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/desmond"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-detloff-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/detloff"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-devance-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/devance"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-dhurst-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dhurst"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-dionneod-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dionneod"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-djb-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/djb"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-dkimberl-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dkimberl"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-dmitry-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dmitry"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-dongquan-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dongquan"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-dpekmezi-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dpekmezi"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-dradhika-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dradhika"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-drcarlo-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/drcarlo"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-drravi-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/drravi"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-dsalzman-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dsalzman"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-dschneid-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dschneid"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-dwallis-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dwallis"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-dybvig-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/dybvig"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-ebchen-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ebchen"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-eckhoff-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/eckhoff"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-edmonds1-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/edmonds1"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-eejohnst-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/eejohnst"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-eep3840-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/eep3840"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-efrolova-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/efrolova"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-ekharlam-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ekharlam"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-elbrown-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/elbrown"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-elky-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/elky"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-elliotl-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/elliotl"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-emfunk-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/emfunk"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-esztul-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/esztul"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-etoi-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/etoi"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-eyang-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/eyang"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-fafaq-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/fafaq"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-fanyang-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/fanyang"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-fgoldman-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/fgoldman"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-flund-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/flund"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-friezu-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/friezu"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-gabi-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gabi"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-gammakni-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gammakni"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-gdhall-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gdhall"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-gdutton-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gdutton"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-gepeters-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gepeters"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-ggoyal-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ggoyal"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-gkennedy-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gkennedy"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-gkf-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gkf"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-gluo-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gluo"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-gnetto-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gnetto"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-godzilla-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/godzilla"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-gpyang-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gpyang"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-grocque-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/grocque"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-gsiegal-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gsiegal"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-guthrie1-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/guthrie1"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-gwillia-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/gwillia"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-h2obor-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/h2obor"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-hbwang-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/hbwang"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-herbchen-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/herbchen"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-hfathall-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/hfathall"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-hildretb-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/hildretb"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-hjelmea-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/hjelmea"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-hkrontir-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/hkrontir"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-hopeamm-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/hopeamm"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-horses-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/horses"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-hschroed-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/hschroed"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-huihu-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/huihu"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-hyunki-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/hyunki"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-ichiro-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ichiro"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-ieltoum-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ieltoum"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-ivfrolov-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ivfrolov"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-j18wang-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/j18wang"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-jabonner-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jabonner"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-jacannon-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jacannon"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-jademtn-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jademtn"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-jakechen-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jakechen"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-jannovak-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jannovak"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-janusz-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/janusz"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-javeda-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/javeda"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-jbibb-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jbibb"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-jdmountz-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jdmountz"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-jdonahue-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jdonahue"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-jedferg-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jedferg"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-jfiveash-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jfiveash"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-jfk-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jfk"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-jhalu-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jhalu"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-jhartman-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jhartman"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-jomalley-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jomalley"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-jonmc-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jonmc"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-josephc-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/josephc"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-jparant-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jparant"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-jprasain-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jprasain"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-jrpjr-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jrpjr"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-jshikany-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jshikany"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-jstern-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jstern"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-jtang-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jtang"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-jtector-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jtector"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-jwleaven-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jwleaven"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-jwnix2-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/jwnix2"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-kappesjc-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kappesjc"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-karin-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/karin"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-kasturi-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kasturi"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-kbland-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kbland"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-kcropsey-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kcropsey"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-kejinhu-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kejinhu"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-kesterso-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kesterso"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-kfontai1-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kfontai1"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-kkeene-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kkeene"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-kkenzik-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kkenzik"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-kksingh-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kksingh"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-kngodby-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kngodby"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-kpopov-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kpopov"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-kriley-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kriley"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-kristac-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kristac"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-ktriebel-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ktriebel"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-kyoon-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/kyoon"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-lapi-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lapi"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-lbjust-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lbjust"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-lcosta-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lcosta"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-leier-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/leier"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-lharring-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lharring"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-lildm29-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lildm29"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-lisle-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lisle"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-lmessiae-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lmessiae"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-lnandago-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lnandago"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-lnorian-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lnorian"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-lobuglio-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lobuglio"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-lsamant-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lsamant"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-lshi-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lshi"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-ltchow-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ltchow"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-lwang12-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lwang12"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-lworthey-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/lworthey"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-malay-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/malay"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-manne-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/manne"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-markert-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/markert"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-martycon-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/martycon"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-martyh-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/martyh"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-mathar-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mathar"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-mbakitas-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mbakitas"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-mbaskin-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mbaskin"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-mbirrer-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mbirrer"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-mbolding-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mbolding"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-mbredel-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mbredel"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-mdeshazo-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mdeshazo"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-messinaj-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/messinaj"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-mfouad-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mfouad"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-mistlc-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mistlc"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-mkase-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mkase"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-mkempf-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mkempf"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-mkutny-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mkutny"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-mliang-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mliang"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-mliu-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mliu"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-mlockhar-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mlockhar"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-mns-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mns"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-mojack-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mojack"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-morgandr-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/morgandr"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-morlandt-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/morlandt"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-morrisme-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/morrisme"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-mpisu-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mpisu"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-mrchambe-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mrchambe"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-mrobbin-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mrobbin"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-msaag-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/msaag"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-msoike-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/msoike"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-muccio-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/muccio"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-murphy-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/murphy"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-mzayzafo-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/mzayzafo"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-nabiha-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/nabiha"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-nahm-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/nahm"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-nalini-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/nalini"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-nkedish-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/nkedish"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-nsharaf-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/nsharaf"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-nwajapeyee-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/nwajapeyee"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-nyi-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/nyi"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-ojamy-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ojamy"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-ojesina-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ojesina"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-oster-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/oster"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-paco-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/paco"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-papadan-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/papadan"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-parkerc-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/parkerc"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-paulg-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/paulg"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-pdsmith-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/pdsmith"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-pike-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/pike"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-piyathic-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/piyathic"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-pking-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/pking"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-placzek-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/placzek"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-plchang-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/plchang"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-poliver-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/poliver"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-pons-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/pons"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-praveen-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/praveen"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-prevelig-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/prevelig"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-psanders-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/psanders"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-pv88-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/pv88"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-rachkay-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rachkay"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-rakeshp-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rakeshp"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-randallt-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/randallt"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-rarend-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rarend"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-rbhatia1-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rbhatia1"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-rcr12lkt-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rcr12lkt"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-rdurant-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rdurant"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-reichc-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/reichc"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-renfrow-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/renfrow"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-riddlenc-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/riddlenc"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-rjacob-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rjacob"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-rkim-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rkim"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-rliu-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rliu"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-rmiller-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rmiller"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-rnavari-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rnavari"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-rogersl-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rogersl"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-romigup-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/romigup"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-rpopple-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rpopple"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-rsamant-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rsamant"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-rsan-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rsan"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-rsdavis-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rsdavis"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-rserra-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rserra"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-ruilu-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ruilu"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-runhua-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/runhua"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-rvanwaar-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rvanwaar"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-rwelner-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rwelner"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-rwhitley-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/rwhitley"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-saad-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/saad"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-salvador-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/salvador"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-sballing-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sballing"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-sbarnes-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sbarnes"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-sbhatia-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sbhatia"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-scarinci-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/scarinci"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-sgaller-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sgaller"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-sharada1-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sharada1"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-sjfrank-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sjfrank"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-smv-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/smv"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-soorya-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/soorya"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-soroush-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/soroush"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-soumya14-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/soumya14"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-sparkska-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sparkska"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-sramvem-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sramvem"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-sshresth-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sshresth"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-stahljm-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/stahljm"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-straughn-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/straughn"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-stricksr-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/stricksr"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-strinem-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/strinem"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-sudarshs-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sudarshs"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-sunnie-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sunnie"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-sushanth-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sushanth"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-svelu-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/svelu"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-swei-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/swei"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-sztul-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/sztul"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-tcoric-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/tcoric"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-tika-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/tika"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-tjilling-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/tjilling"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-tleath-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/tleath"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-tmarquez-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/tmarquez"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-tnagy-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/tnagy"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-treena-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/treena"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-tryan-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/tryan"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-trygve-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/trygve"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-ttownes-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ttownes"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-vantony-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/vantony"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-venkatra-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/venkatra"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-vreddy-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/vreddy"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-vrncsnch-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/vrncsnch"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-walter-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/walter"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-wangp-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/wangp"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-wbritt-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/wbritt"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-wbrou-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/wbrou"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-wcantrel-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/wcantrel"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-wcarroll-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/wcarroll"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-weinmann-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/weinmann"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-wesselma-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/wesselma"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-westine-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/westine"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccp-wgrizzle-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/wgrizzle"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCP"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-whuh-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/whuh"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-wlandier-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/wlandier"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-wliang-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/wliang"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-wolfsonj-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/wolfsonj"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-xhan-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/xhan"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-xufeng-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/xufeng"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-xuhui-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/xuhui"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-xwu-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/xwu"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-no-yancey-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/yancey"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-NO"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-yangyang-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/yangyang"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-ybchen-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ybchen"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-yhsong-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/yhsong"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-youngkim-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/youngkim"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-ypli-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/ypli"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-yturkman-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/yturkman"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-yufengli-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/yufengli"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccps-yunn-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/yunn"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCPS"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-et-yying-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/yying"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-ET"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-zhanja-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/zhanja"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-zhaox88-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/zhaox88"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-iii-zhel-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Senior Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/zhel"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-III"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/position-ccc-ccb-zxxu-1">
+    <vitro:mostSpecificType rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdf:type rdf:resource="http://scholars.uab.edu/ontology/local#ProgramMember"/>
+    <rdfs:label>Associate Scientist</rdfs:label>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/zxxu"/>
+    <vivo:relates rdf:resource="http://scholars.uab.edu/individual/cdCCC-CCB"/>
+  </rdf:Description>
+</rdf:RDF> 

@@ -1,0 +1,549 @@
+<rdf:RDF 
+    xmlns:vitro="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:cito="http://purl.org/spar/cito/" 
+    xmlns:scires="http://vivoweb.org/ontology/scientific-research#" 
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:ocresd="http://purl.org/net/OCRe/study_design.owl#" 
+    xmlns:ocrer="http://purl.org/net/OCRe/research.owl#" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:uab="http://scholars.uab.edu/ontology/local#" 
+    xmlns:obo="http://purl.obolibrary.org/obo/" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:geo="http://aims.fao.org/aos/geopolitical.owl#" 
+    xmlns:c4o="http://purl.org/spar/c4o/" 
+    xmlns:event="http://purl.org/NET/c4dm/event.owl#" 
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+    xmlns:bibo="http://purl.org/ontology/bibo/" 
+    xmlns:fabio="http://purl.org/spar/fabio/" 
+    xmlns:vivo="http://vivoweb.org/ontology/core#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:vitro-public="http://vitro.mannlib.cornell.edu/ns/vitro/public#" > 
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode300">
+    <rdfs:label xml:lang="en-US">Certificate</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode301">
+    <rdfs:label xml:lang="en-US">Associate Degree</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode350">
+    <rdfs:label xml:lang="en-US">Medical Certificate</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode361">
+    <rdfs:label xml:lang="en-US">Associate of Science Nursing Certificate</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode362">
+    <rdfs:label xml:lang="en-US">3 Year Nursing Degree Certificate</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode400">
+    <rdfs:label xml:lang="en-US">Bachelor&apos;s Degree</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode401">
+    <rdfs:label xml:lang="en-US">Bachelor&apos;s Level Degree</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode402">
+    <rdfs:label xml:lang="en-US">Bachelor of Arts</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode410">
+    <rdfs:label xml:lang="en-US">Bachelor of Business</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode415">
+    <rdfs:label xml:lang="en-US">Bachelor of Computer Science</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode420">
+    <rdfs:label xml:lang="en-US">Bachelor of Education</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode430">
+    <rdfs:label xml:lang="en-US">Bachelor of Engineering</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode440">
+    <rdfs:label xml:lang="en-US">Bachelor of Health (Allied)</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode448">
+    <rdfs:label xml:lang="en-US">Bachelor of Nursing</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode449">
+    <rdfs:label xml:lang="en-US">Bachelor of Pharmacy</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode450">
+    <rdfs:label xml:lang="en-US">Bachelor of Humanities</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode460">
+    <rdfs:label xml:lang="en-US">Bachelor of Science or Mathematics</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode470">
+    <rdfs:label xml:lang="en-US">Bachelor of Social or Behavioral Science</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode500">
+    <rdfs:label xml:lang="en-US">Master of Science</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode501">
+    <rdfs:label xml:lang="en-US">Master of Arts</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode502">
+    <rdfs:label xml:lang="en-US">Master&apos;s Level Degree</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode510">
+    <rdfs:label xml:lang="en-US">Master of Business</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode511">
+    <rdfs:label xml:lang="en-US">Master of Accounting</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode512">
+    <rdfs:label xml:lang="en-US">Master of Business Administration</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode520">
+    <rdfs:label xml:lang="en-US">Master of Education</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode521">
+    <rdfs:label xml:lang="en-US">Master of Education</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode524">
+    <rdfs:label xml:lang="en-US">Master of Counseling</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode526">
+    <rdfs:label xml:lang="en-US">Master of Physical Education</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode527">
+    <rdfs:label xml:lang="en-US">Master of Arts</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode528">
+    <rdfs:label xml:lang="en-US">Education Specialist</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode530">
+    <rdfs:label xml:lang="en-US">Master of Engineering</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode531">
+    <rdfs:label xml:lang="en-US">Master of Electrical Engineering</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode535">
+    <rdfs:label xml:lang="en-US">Master of Biomedical Engineering</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode540">
+    <rdfs:label xml:lang="en-US">Master of Health Related</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode541">
+    <rdfs:label xml:lang="en-US">Master of Occupational Therapy</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode542">
+    <rdfs:label xml:lang="en-US">Master of Physical Therapy</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode543">
+    <rdfs:label xml:lang="en-US">Master of Nursing</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode544">
+    <rdfs:label xml:lang="en-US">Master of Occupational Health and Safety</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode546">
+    <rdfs:label xml:lang="en-US">Master of Science</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode547">
+    <rdfs:label xml:lang="en-US">Master of Pharmacy</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode548">
+    <rdfs:label xml:lang="en-US">Master of Hospital Health Admin / Health Admin</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode550">
+    <rdfs:label xml:lang="en-US">Master of Humanities</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode551">
+    <rdfs:label xml:lang="en-US">Master of Fine Arts</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode552">
+    <rdfs:label xml:lang="en-US">Master of Music</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode553">
+    <rdfs:label xml:lang="en-US">Master of Arts</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode554">
+    <rdfs:label xml:lang="en-US">Master of Arts</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode555">
+    <rdfs:label xml:lang="en-US">Master of Science</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode556">
+    <rdfs:label xml:lang="en-US">Master of English</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode560">
+    <rdfs:label xml:lang="en-US">Master of Sciences or Mathematics</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode561">
+    <rdfs:label xml:lang="en-US">Master of Life Sciences</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode562">
+    <rdfs:label xml:lang="en-US">Master of Physical Sciences</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode563">
+    <rdfs:label xml:lang="en-US">Master of Computer or Info Sciences</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode570">
+    <rdfs:label xml:lang="en-US">Master of Social or Behavioral Sciences</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode571">
+    <rdfs:label xml:lang="en-US">Master of Divinity</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode572">
+    <rdfs:label xml:lang="en-US">Master of Social Work</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode573">
+    <rdfs:label xml:lang="en-US">Master of Psychology</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode577">
+    <rdfs:label xml:lang="en-US">Master of Public Administration</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode580">
+    <rdfs:label xml:lang="en-US">Master of Public Health</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode581">
+    <rdfs:label xml:lang="en-US">Master of Science</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode582">
+    <rdfs:label xml:lang="en-US">Master of Science</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode600">
+    <rdfs:label xml:lang="en-US">Doctorate</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode601">
+    <rdfs:label xml:lang="en-US">Doctorate Level Degree</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode611">
+    <rdfs:label xml:lang="en-US">Doctor of Business Administration</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode620">
+    <rdfs:label xml:lang="en-US">Doctor of Education</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode621">
+    <rdfs:label xml:lang="en-US">Doctor of Education</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode622">
+    <rdfs:label xml:lang="en-US">Doctor of Physical Education</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode630">
+    <rdfs:label xml:lang="en-US">Doctor of Engineering</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode640">
+    <rdfs:label xml:lang="en-US">Doctorate</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode643">
+    <rdfs:label xml:lang="en-US">Doctor of Nursing Science</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode644">
+    <rdfs:label xml:lang="en-US">Doctor of Nursing Practice</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode647">
+    <rdfs:label xml:lang="en-US">Doctor of Pharmacy</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode650">
+    <rdfs:label xml:lang="en-US">Doctor of Humanities</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode652">
+    <rdfs:label xml:lang="en-US">Doctor of Musical Arts</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode660">
+    <rdfs:label xml:lang="en-US">Doctor of Science or Mathematics</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode661">
+    <rdfs:label xml:lang="en-US">Doctor of Science</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode663">
+    <rdfs:label xml:lang="en-US">Doctor of Science</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode670">
+    <rdfs:label xml:lang="en-US">Doctor of Social or Behavioral Sciences</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode671">
+    <rdfs:label xml:lang="en-US">Doctor of Divinity</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode672">
+    <rdfs:label xml:lang="en-US">Doctor of Social Work</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode673">
+    <rdfs:label xml:lang="en-US">Doctor of Psychology</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode677">
+    <rdfs:label xml:lang="en-US">Doctor of Public Administration</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode680">
+    <rdfs:label xml:lang="en-US">Doctor of Public Health</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode690">
+    <rdfs:label xml:lang="en-US">Doctor of Law</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode700">
+    <rdfs:label xml:lang="en-US">Doctor of Philosophy</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode701">
+    <rdfs:label xml:lang="en-US">Doctor of Philosophy Level Degree</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode710">
+    <rdfs:label xml:lang="en-US">Doctor of Philosophy</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode720">
+    <rdfs:label xml:lang="en-US">Doctor of Philosophy</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode730">
+    <rdfs:label xml:lang="en-US">Doctor of Philosophy</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode740">
+    <rdfs:label xml:lang="en-US">Doctor of Philosophy</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode750">
+    <rdfs:label xml:lang="en-US">Doctor of Philosophy</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode760">
+    <rdfs:label xml:lang="en-US">Doctor of Philosophy</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode770">
+    <rdfs:label xml:lang="en-US">Doctor of Philosophy</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode780">
+    <rdfs:label xml:lang="en-US">Doctor of Philosophy</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode800">
+    <rdfs:label xml:lang="en-US">Doctorate</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode801">
+    <rdfs:label xml:lang="en-US">Doctorate</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode802">
+    <rdfs:label xml:lang="en-US">Bachelor of Medicine &amp; Surgery (MBBS)</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode820">
+    <rdfs:label xml:lang="en-US">Doctor of Medicine</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode830">
+    <rdfs:label xml:lang="en-US">Doctor of Dental Medicine</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode840">
+    <rdfs:label xml:lang="en-US">Doctor of Dental Science</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode850">
+    <rdfs:label xml:lang="en-US">Doctor of Dental Surgery</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode850">
+    <rdfs:label xml:lang="en-US">Doctor of Veterinary Medicine</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode860">
+    <rdfs:label xml:lang="en-US">Doctor of Osteopathy</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode870">
+    <rdfs:label xml:lang="en-US">Doctor of Podiatry</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode880">
+    <rdfs:label xml:lang="en-US">Doctor of Optometry</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/degreeCode890">
+    <rdfs:label xml:lang="en-US">Doctor of Medical Sciences</rdfs:label>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#AcademicDegree"/>
+  </rdf:Description>
+</rdf:RDF> 

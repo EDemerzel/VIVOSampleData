@@ -1,0 +1,72 @@
+<rdf:RDF 
+    xmlns:vitro="http://vitro.mannlib.cornell.edu/ns/vitro/0.7#" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:cito="http://purl.org/spar/cito/" 
+    xmlns:scires="http://vivoweb.org/ontology/scientific-research#" 
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" 
+    xmlns:ocresd="http://purl.org/net/OCRe/study_design.owl#" 
+    xmlns:ocrer="http://purl.org/net/OCRe/research.owl#" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:uab="http://scholars.uab.edu/ontology/local#" 
+    xmlns:obo="http://purl.obolibrary.org/obo/" 
+    xmlns:owl="http://www.w3.org/2002/07/owl#" 
+    xmlns:geo="http://aims.fao.org/aos/geopolitical.owl#" 
+    xmlns:c4o="http://purl.org/spar/c4o/" 
+    xmlns:event="http://purl.org/NET/c4dm/event.owl#" 
+    xmlns:vcard="http://www.w3.org/2006/vcard/ns#" 
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#" 
+    xmlns:bibo="http://purl.org/ontology/bibo/" 
+    xmlns:fabio="http://purl.org/spar/fabio/" 
+    xmlns:vivo="http://vivoweb.org/ontology/core#" 
+    xmlns:foaf="http://xmlns.com/foaf/0.1/" 
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" 
+    xmlns:vitro-public="http://vitro.mannlib.cornell.edu/ns/vitro/public#" > 
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/cd310008400">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O’Neal Comprehensive Cancer Center at UAB</rdfs:label>
+    <obo:BFO_0000050 rdf:resource="http://scholars.uab.edu/individual/cd310000000"/>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Center"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Center"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/cdCCC-L">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O’Neal Comprehensive Cancer Center at UAB Leadership</rdfs:label>
+    <obo:BFO_0000050 rdf:resource="http://scholars.uab.edu/individual/cd310008400"/>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Program"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Program"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/cdCCC-III">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inflammation, Immunology and Immunotherapeutics</rdfs:label>
+    <obo:BFO_0000050 rdf:resource="http://scholars.uab.edu/individual/cd310008400"/>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Program"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Program"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/cdCCC-CCB">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cancer Cell Biology</rdfs:label>
+    <obo:BFO_0000050 rdf:resource="http://scholars.uab.edu/individual/cd310008400"/>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Program"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Program"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/cdCCC-ET">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Experimental Therapeutics</rdfs:label>
+    <obo:BFO_0000050 rdf:resource="http://scholars.uab.edu/individual/cd310008400"/>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Program"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Program"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/cdCCC-NO">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neuro-Oncology</rdfs:label>
+    <obo:BFO_0000050 rdf:resource="http://scholars.uab.edu/individual/cd310008400"/>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Program"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Program"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/cdCCC-CCP">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cancer Chemoprevention</rdfs:label>
+    <obo:BFO_0000050 rdf:resource="http://scholars.uab.edu/individual/cd310008400"/>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Program"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Program"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://scholars.uab.edu/individual/cdCCC-CCPS">
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cancer Control and Population Sciences</rdfs:label>
+    <obo:BFO_0000050 rdf:resource="http://scholars.uab.edu/individual/cd310008400"/>
+    <vitro:mostSpecificType rdf:resource="http://vivoweb.org/ontology/core#Program"/>
+    <rdf:type rdf:resource="http://vivoweb.org/ontology/core#Program"/>
+  </rdf:Description>
+</rdf:RDF> 
